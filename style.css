@@ -8,21 +8,25 @@ p {
   text-align: center;
 }
 button {
- text-align: center;
+  text-align: center;
   display: grid;
   margin: 10px auto;
 }
 #gen {
-  background-color: #ece4db; 
+  background-color: #ece4db;
   border: 2px solid black;
   border-radius: 15px;
   width: 200px;
   margin: 10px auto;
 }
 #prompt {
-  background-color: #ece4db; 
+  background-color: #ece4db;
   border: 2px solid black;
   border-radius: 15px;
   width: 200px;
+  height: 130px;
   margin: 10px auto;
+}
+#pEl {
+  padding: 10px;
 }
