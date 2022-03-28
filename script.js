@@ -152,7 +152,15 @@ const prompts = [
     'One area I need to improve on is… ',
     'Right now, my thoughts are _____________. I wish they were _______________.',
     'I really wish others knew this about me: …',
-    'What barrier(s) do I need to overcome?'
+    'What barrier(s) do I need to overcome?',
+    'Who made you feel good this week?',
+    'What was the biggest mistake you made this week?',
+    'What did you do this week that moved you closer to reaching your goals?',
+    'Is there anything you did this week that you wish you’d done differently?',
+    'What did you most enjoy doing this week?',
+    'How did you procrastinate on important tasks this week?',
+    'What did you learn this week?',
+    'What’s the funniest thing that happened to you this week?',
 ];
 
 console.log(pEl);
